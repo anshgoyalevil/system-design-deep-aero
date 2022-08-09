@@ -28,6 +28,7 @@ Following Node Modules are used:
 It uses an advanced image similarity api powered by DeepAI.org
 
 How to run the web app?
+<br>
 Create a .env file inside the root directory of the app, and get your free api key from deepai.org
 
 Some Screenshots of the App:
