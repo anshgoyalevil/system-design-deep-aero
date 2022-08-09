@@ -1,0 +1,22 @@
+{
+  "name": "image-processor-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "deepai": "^1.0.21",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "flowbite": "^1.5.1",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.1",
+    "tailwindcss": "^3.1.8"
+  }
+}
